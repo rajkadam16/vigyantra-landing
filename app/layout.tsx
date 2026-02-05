@@ -15,6 +15,13 @@ export const metadata: Metadata = {
   keywords:
     "software development, web development, mobile app development, cloud solutions, AI automation, VigyanTra Tech",
   authors: [{ name: "VigyanTra Tech" }],
+  icons: {
+    icon: [
+      { url: "/favicon.png" },
+      { url: "/icon.png", sizes: "any" },
+    ],
+    apple: "/icon.png",
+  },
   openGraph: {
     title: "VigyanTra Tech - Innovative Software Solutions",
     description:
